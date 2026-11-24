@@ -1,0 +1,121 @@
+{
+  "name": "第八版：以 v7 為基礎，第 2 天玉米 4→9、第 3 天招牌 22→24、韭菜 5→7（依 v7 缺貨盤點）",
+  "pack": "official",
+  "days": [
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "酸辣湯",
+          "qty": 16,
+          "price": 35
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 9,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 24,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 7,
+          "price": 70
+        },
+        {
+          "name": "紅茶",
+          "qty": 10,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 13,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 10,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 12,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    },
+    {
+      "items": [
+        {
+          "name": "招牌鍋貼",
+          "qty": 17,
+          "price": 70
+        },
+        {
+          "name": "韭菜鍋貼",
+          "qty": 10,
+          "price": 70
+        },
+        {
+          "name": "玉米鍋貼",
+          "qty": 19,
+          "price": 80
+        },
+        {
+          "name": "紅茶",
+          "qty": 14,
+          "price": 25
+        }
+      ],
+      "promoCost": 0
+    }
+  ]
+}
